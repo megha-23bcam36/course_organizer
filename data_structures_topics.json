@@ -1,0 +1,9 @@
+{
+    "module_name": "data_structures",
+    "topics": [
+        "Arrays",
+        "Linked Lists",
+        "Stacks",
+        "Queues"
+    ]
+}
